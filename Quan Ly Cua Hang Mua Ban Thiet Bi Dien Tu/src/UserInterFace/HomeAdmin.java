@@ -20,7 +20,7 @@ public class HomeAdmin extends javax.swing.JFrame implements Runnable {
         lblRun.setForeground(Color.GREEN);
         this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         detail = new Detail(d);
-        System.out.println("Test-------------------------");
+       
         //Start();
     }
 
